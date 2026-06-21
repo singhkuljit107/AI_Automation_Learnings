@@ -1,3 +1,4 @@
+# In the program, I refresh my skills about HTTP Library Requests
 import requests
 import random
 
